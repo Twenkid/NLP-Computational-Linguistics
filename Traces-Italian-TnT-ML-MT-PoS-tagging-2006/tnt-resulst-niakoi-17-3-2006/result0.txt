@@ -1,0 +1,3 @@
+Overall result:
+Equal	 :    3881 /   4150 ( 93.52%)
+Different:     269 /   4150 (  6.48%)

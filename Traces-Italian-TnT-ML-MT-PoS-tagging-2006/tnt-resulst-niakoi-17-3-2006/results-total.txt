@@ -1,0 +1,45 @@
+Average: 93.428
+
+result1
+Overall result:
+Equal	 :    3922 /   4182 ( 93.78%)
+Different:     260 /   4182 (  6.22%)
+
+result2
+Overall result:
+Equal	 :    3935 /   4185 ( 94.03%)
+Different:     250 /   4185 (  5.97%)
+
+result3
+Overall result:
+Equal	 :    3866 /   4154 ( 93.07%)
+Different:     288 /   4154 (  6.93%)
+
+Overall result:
+Equal	 :    3858 /   4146 ( 93.05%)
+Different:     288 /   4146 (  6.95%)
+
+Overall result:
+Equal	 :    3929 /   4186 ( 93.86%)
+Different:     257 /   4186 (  6.14%)
+
+Overall result:
+Equal	 :    3859 /   4142 ( 93.17%)
+Different:     283 /   4142 (  6.83%)
+
+Overall result:
+Equal	 :    3917 /   4184 ( 93.62%)
+Different:     267 /   4184 (  6.38%)
+
+Overall result:
+Equal	 :    3888 /   4165 ( 93.35%)
+Different:     277 /   4165 (  6.65%)
+
+Overall result:
+Equal	 :    3835 /   4131 ( 92.83%)
+Different:     296 /   4131 (  7.17%)
+
+result0
+Overall result:
+Equal	 :    3881 /   4150 ( 93.52%)
+Different:     269 /   4150 (  6.48%)

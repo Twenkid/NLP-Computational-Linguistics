@@ -1,0 +1,3 @@
+Overall result:
+Equal	 :    3858 /   4146 ( 93.05%)
+Different:     288 /   4146 (  6.95%)
