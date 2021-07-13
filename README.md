@@ -1,6 +1,6 @@
 # NLP-Computational-Linguistics
 Natural Language Processing Papers and Projects
-
+To Do: ... Add/Link to Smarty, artificial-mind, ... older in Bulgarian, ДЗБЕ ... 
 
 ## Намиране на следите в изречения на италиански език чрез статистически методи за машинно обучение и банка от дървета [PERL]
 https://github.com/Twenkid/NLP-Computational-Linguistics/tree/main/Traces-Italian-TnT-ML-MT-PoS-tagging-2006
