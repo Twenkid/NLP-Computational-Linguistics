@@ -2,6 +2,10 @@
 Natural Language Processing Papers and Projects
 To Do: ... Add/Link to Smarty, artificial-mind, ... older in Bulgarian, ДЗБЕ ... 
 
+## See the GPT2-Training Bulgarian repositories in my account
+
+https://github.com/Twenkid/GPT2-Bulgarian-Training-Tips-and-Tools
+
 ## Намиране на следите в изречения на италиански език чрез статистически методи за машинно обучение и банка от дървета [PERL]
 https://github.com/Twenkid/NLP-Computational-Linguistics/tree/main/Traces-Italian-TnT-ML-MT-PoS-tagging-2006
 
