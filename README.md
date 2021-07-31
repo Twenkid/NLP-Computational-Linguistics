@@ -6,6 +6,10 @@ To Do: ... Add/Link to Smarty, artificial-mind, ... older in Bulgarian, ДЗБЕ
 
 https://github.com/Twenkid/GPT2-Bulgarian-Training-Tips-and-Tools
 
+Others: ... (some unpiblished Suchinitel-1-...)
+
+Виж: сп. "Свещеният сметач", дружество "Разум".
+
 ## Намиране на следите в изречения на италиански език чрез статистически методи за машинно обучение и банка от дървета [PERL]
 https://github.com/Twenkid/NLP-Computational-Linguistics/tree/main/Traces-Italian-TnT-ML-MT-PoS-tagging-2006
 
