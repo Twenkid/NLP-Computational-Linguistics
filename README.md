@@ -23,3 +23,13 @@ https://github.com/Twenkid/NLP-Computational-Linguistics/tree/main/Units-Perl-Re
 Developed in Perl. Dataset created by extraction from a website with many example medical publications: http://www.pubmedcentral.nih.gov/
 Processing many files in many folders, many and complex regular expressions, concordances exraction, measurements conversions, statistics etc., 2007
 
+* See also:
+
+* See also: 
+
+https://github.com/Twenkid/Smarty
+https://github.com/Twenkid/NLP-Computational-Linguistics
+https://github.com/Twenkid/GPT2-Bulgarian-Training-Tips-and-Tools
+https://github.com/Twenkid/Suchinitel-1-GPT2-Synthesizer-work
+https://github.com/Twenkid/Similarity-NLP-Corpus-CPP
+
