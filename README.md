@@ -2,6 +2,9 @@
 Natural Language Processing Papers and Projects
 To Do: ... Add/Link to Smarty, artificial-mind, ... older in Bulgarian, ДЗБЕ ... 
 
+## See also "Smarty"- the most advanced intelligent dictionary (NLP-enhanced) as of 2007-2008 (at least):
+https://github.com/Twenkid/Smarty
+
 ## See the GPT2-Training Bulgarian repositories in my account
 
 https://github.com/Twenkid/GPT2-Bulgarian-Training-Tips-and-Tools
@@ -28,8 +31,13 @@ Processing many files in many folders, many and complex regular expressions, con
 * See also: 
 
 https://github.com/Twenkid/Smarty
+
 https://github.com/Twenkid/NLP-Computational-Linguistics
+
 https://github.com/Twenkid/GPT2-Bulgarian-Training-Tips-and-Tools
+
 https://github.com/Twenkid/Suchinitel-1-GPT2-Synthesizer-work
+
 https://github.com/Twenkid/Similarity-NLP-Corpus-CPP
+
 
