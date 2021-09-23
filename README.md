@@ -9,6 +9,9 @@ https://github.com/Twenkid/Smarty
 
 https://github.com/Twenkid/GPT2-Bulgarian-Training-Tips-and-Tools
 
+Video: GPT2-Medium Training from Scratch on Colab for Any Language - Tips & Tricks by Twenkid
+https://youtu.be/F-Xt-cK4L-g
+
 Others: ... (some unpiblished Suchinitel-1-...)
 
 Виж: сп. "Свещеният сметач", дружество "Разум".
