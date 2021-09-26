@@ -30,6 +30,8 @@ Developed in Perl. Dataset created by extraction from a website with many exampl
 Processing many files in many folders, many and complex regular expressions, concordances exraction, measurements conversions, statistics etc., 2007
 
 * See also:
+* 
+https://github.com/Twenkid/Similarity-NLP-Corpus-CPP
 
 * See also: 
 
