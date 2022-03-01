@@ -6,8 +6,12 @@ To Do: ... Add/Link to Smarty, artificial-mind, ... older in Bulgarian, ДЗБЕ
 
 https://github.com/Twenkid/Toshko_2
 
+https://user-images.githubusercontent.com/23367640/153290810-ef9e4e83-067e-48ec-b782-8e947632b7a0.png
+
 ## See also "Smarty"- the most advanced intelligent dictionary (NLP-enhanced) as of 2007-2008 (at least):
 https://github.com/Twenkid/Smarty
+
+https://github.com/Twenkid/Smarty/raw/master/smarty-pic1.png
 
 ## See the GPT2-Training Bulgarian repositories in my account
 
