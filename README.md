@@ -2,6 +2,10 @@
 Natural Language Processing Papers and Projects
 To Do: ... Add/Link to Smarty, artificial-mind, ... older in Bulgarian, ДЗБЕ ... 
 
+## Toshko 2 - text-to-speech synthesizer
+
+https://github.com/Twenkid/Toshko_2
+
 ## See also "Smarty"- the most advanced intelligent dictionary (NLP-enhanced) as of 2007-2008 (at least):
 https://github.com/Twenkid/Smarty
 
