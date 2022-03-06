@@ -2,6 +2,17 @@
 Natural Language Processing Papers and Projects
 To Do: ... Add/Link to Smarty, artificial-mind, ... older in Bulgarian, ДЗБЕ ... 
 
+## NeMo Notebooks
+
+Tutorials:
+
+https://colab.research.google.com/github/NVIDIA/NeMo/blob/stable/tutorials/00_NeMo_Primer.ipynb#scrollTo=HhtzYATsuSJV
+
+https://colab.research.google.com/github/NVIDIA/NeMo/blob/main/tutorials/VoiceSwapSample.ipynb#scrollTo=JOEFYywbctbJ
+
+
+
+
 ## Toshko 2 - text-to-speech synthesizer
 
 https://github.com/Twenkid/Toshko_2
