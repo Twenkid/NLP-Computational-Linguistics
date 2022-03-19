@@ -2,6 +2,24 @@
 Natural Language Processing Papers and Projects
 To Do: ... Add/Link to Smarty, artificial-mind, ... older in Bulgarian, ДЗБЕ ... 
 
+* See also:
+
+https://github.com/Twenkid/NLP-NLU-Corpus/  (tabCnt ... GPT2- ...)
+
+https://github.com/Twenkid/Similarity-NLP-Corpus-CPP
+
+https://github.com/Twenkid/Smarty
+
+https://github.com/Twenkid/NLP-Computational-Linguistics
+
+https://github.com/Twenkid/GPT2-Bulgarian-Training-Tips-and-Tools
+
+https://github.com/Twenkid/Suchinitel-1-GPT2-Synthesizer-work
+
+https://github.com/Twenkid/Similarity-NLP-Corpus-CPP
+
+
+
 ## NeMo Notebooks
 
 Tutorials:
